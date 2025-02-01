@@ -1,0 +1,2861 @@
+<table class="wikitable sortable sticky-header-multi sort-under" style="text-align:left;">
+ <tbody>
+  <tr>
+   <th rowspan="2" scope="col">
+    Rank
+   </th>
+   <th rowspan="2" scope="col">
+    Name
+   </th>
+   <th rowspan="2" scope="col">
+    Industry
+   </th>
+   <th scope="col">
+    Revenue
+   </th>
+   <th scope="col">
+    Profit
+   </th>
+   <th rowspan="2" scope="col">
+    Employees
+   </th>
+   <th rowspan="2" scope="col">
+    Headquarters
+    <sup class="reference" id="cite_ref-4">
+     <a href="#cite_note-4">
+      [note 1]
+     </a>
+    </sup>
+   </th>
+   <th rowspan="2" scope="col">
+    <a href="/wiki/State-owned_enterprise" title="State-owned enterprise">
+     State-owned
+    </a>
+   </th>
+   <th class="unsortable" rowspan="2" scope="col">
+    <abbr title="Reference(s)">
+     Ref.
+    </abbr>
+   </th>
+   <th rowspan="2" scope="col">
+    Revenue per worker
+   </th>
+  </tr>
+  <tr>
+   <th colspan="2" scope="col">
+    <small>
+     USD millions
+    </small>
+   </th>
+  </tr>
+  <tr>
+   <th scope="col">
+    1
+   </th>
+   <td>
+    <a href="/wiki/Walmart" title="Walmart">
+     Walmart
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Retail" title="Retail">
+     Retail
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $611,289
+   </td>
+   <td style="text-align:left;">
+    $11,680
+   </td>
+   <td style="text-align:right;">
+    2,100,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-W_1-2">
+     <a href="#cite_note-W-1">
+      [1]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $291,090.00
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    2
+   </th>
+   <td>
+    <a href="/wiki/Saudi_Aramco" title="Saudi Aramco">
+     Saudi Aramco
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $603,651
+   </td>
+   <td style="text-align:left;">
+    $159,069
+   </td>
+   <td style="text-align:right;">
+    70,496
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">
+       <img alt="Saudi Arabia" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Saudi Arabia
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-5">
+     <a href="#cite_note-5">
+      [4]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $8,562,911.37
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    3
+   </th>
+   <td>
+    <a href="/wiki/Amazon_(company)" title="Amazon (company)">
+     Amazon
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Retail" title="Retail">
+     Retail
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $574,785
+   </td>
+   <td style="text-align:left;">
+    $30,425
+   </td>
+   <td style="text-align:right;">
+    1,525,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-6">
+     <a href="#cite_note-6">
+      [5]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $376,908.20
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    4
+   </th>
+   <td>
+    <a href="/wiki/State_Grid_Corporation_of_China" title="State Grid Corporation of China">
+     State Grid Corporation of China
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Electric_utility" title="Electric utility">
+     Electricity
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $530,009
+   </td>
+   <td style="text-align:left;">
+    $8,192
+   </td>
+   <td style="text-align:right;">
+    870,287
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-7">
+     <a href="#cite_note-7">
+      [6]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $609,004.85
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    5
+   </th>
+   <td>
+    <a href="/wiki/Vitol" title="Vitol">
+     Vitol
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Commodity_market" title="Commodity market">
+     Commodities
+    </a>
+   </td>
+   <td>
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $505,000
+   </td>
+   <td>
+    $15,000
+   </td>
+   <td style="text-align:right;">
+    1,560
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <span>
+       <img alt="" class="mw-file-element" data-file-height="512" data-file-width="512" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/15px-Flag_of_Switzerland_%28Pantone%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/23px-Flag_of_Switzerland_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/30px-Flag_of_Switzerland_%28Pantone%29.svg.png 2x" width="15"/>
+      </span>
+     </span>
+    </span>
+    <a href="/wiki/Switzerland" title="Switzerland">
+     Switzerland
+    </a>
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-8">
+     <a href="#cite_note-8">
+      [7]
+     </a>
+    </sup>
+    <sup class="reference" id="cite_ref-9">
+     <a href="#cite_note-9">
+      [8]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $323,717,948.72
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    6
+   </th>
+   <td>
+    <a href="/wiki/China_National_Petroleum_Corporation" title="China National Petroleum Corporation">
+     China National Petroleum Corporation
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $483,019
+   </td>
+   <td style="text-align:left;">
+    $21,080
+   </td>
+   <td style="text-align:right;">
+    1,087,049
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-10">
+     <a href="#cite_note-10">
+      [9]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $444,339.68
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    7
+   </th>
+   <td>
+    <a href="/wiki/China_Petrochemical_Corporation" title="China Petrochemical Corporation">
+     China Petrochemical Corporation
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $471,154
+   </td>
+   <td style="text-align:left;">
+    $9,657
+   </td>
+   <td style="text-align:right;">
+    527,487
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-11">
+     <a href="#cite_note-11">
+      [10]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $893,204.95
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    8
+   </th>
+   <td>
+    <a href="/wiki/ExxonMobil" title="ExxonMobil">
+     ExxonMobil
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $413,680
+   </td>
+   <td style="text-align:left;">
+    $55,740
+   </td>
+   <td style="text-align:right;">
+    63,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-:0_12-0">
+     <a href="#cite_note-:0-12">
+      [11]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $6,566,349.21
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    9
+   </th>
+   <td>
+    <a href="/wiki/Apple_Inc." title="Apple Inc.">
+     Apple
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Electronics_industry" title="Electronics industry">
+     Electronics
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $394,328
+   </td>
+   <td style="text-align:left;">
+    $99,803
+   </td>
+   <td style="text-align:right;">
+    164,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-13">
+     <a href="#cite_note-13">
+      [12]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $2,404,439.02
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    10
+   </th>
+   <td>
+    <a href="/wiki/Shell_plc" title="Shell plc">
+     Shell
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $386,201
+   </td>
+   <td style="text-align:left;">
+    $20,120
+   </td>
+   <td style="text-align:right;">
+    93,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_Kingdom" title="United Kingdom">
+       <img alt="United Kingdom" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United Kingdom
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-14">
+     <a href="#cite_note-14">
+      [13]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $4,152,698.92
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    11
+   </th>
+   <td>
+    <a href="/wiki/UnitedHealth_Group" title="UnitedHealth Group">
+     UnitedHealth Group
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Healthcare" title="Healthcare">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $324,162
+   </td>
+   <td style="text-align:left;">
+    $20,120
+   </td>
+   <td style="text-align:right;">
+    400,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-15">
+     <a href="#cite_note-15">
+      [14]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $810,405.00
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    12
+   </th>
+   <td>
+    <a href="/wiki/CVS_Health" title="CVS Health">
+     CVS Health
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Healthcare" title="Healthcare">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $322,467
+   </td>
+   <td style="text-align:left;">
+    $4,149
+   </td>
+   <td style="text-align:right;">
+    259,500
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-16">
+     <a href="#cite_note-16">
+      [15]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $1,242,647.40
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    13
+   </th>
+   <td>
+    <a href="/wiki/Trafigura" title="Trafigura">
+     Trafigura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Commodity_market" title="Commodity market">
+     Commodities
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $318,476
+   </td>
+   <td style="text-align:left;">
+    $6,994
+   </td>
+   <td style="text-align:right;">
+    12,347
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Singapore" title="Singapore">
+       <img alt="Singapore" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Singapore
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-17">
+     <a href="#cite_note-17">
+      [16]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $25,793,796.06
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    14
+   </th>
+   <td>
+    <a href="/wiki/China_State_Construction_Engineering" title="China State Construction Engineering">
+     China State Construction Engineering
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Construction" title="Construction">
+     Construction
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $305,885
+   </td>
+   <td style="text-align:left;">
+    $4,234
+   </td>
+   <td style="text-align:right;">
+    382,492
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-18">
+     <a href="#cite_note-18">
+      [17]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $799,716.07
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    15
+   </th>
+   <td>
+    <a href="/wiki/Berkshire_Hathaway" title="Berkshire Hathaway">
+     Berkshire Hathaway
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Financial_services" title="Financial services">
+     Financials
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $302,089
+   </td>
+   <td style="text-align:left;">
+    −$22,819
+   </td>
+   <td style="text-align:right;">
+    383,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-19">
+     <a href="#cite_note-19">
+      [18]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $788,744.13
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    16
+   </th>
+   <td>
+    <a href="/wiki/Volkswagen_Group" title="Volkswagen Group">
+     Volkswagen Group
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Automotive" title="Automotive">
+     Automotive
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Decrease">
+      <img alt="Decrease" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $293,685
+   </td>
+   <td style="text-align:left;">
+    $15,233
+   </td>
+   <td style="text-align:right;">
+    675,805
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Germany" title="Germany">
+       <img alt="Germany" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Germany
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-20">
+     <a href="#cite_note-20">
+      [19]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $434,570.62
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    17
+   </th>
+   <td>
+    <a href="/wiki/Uniper" title="Uniper">
+     Uniper
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Electric_utility" title="Electric utility">
+     Electricity
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $288,309
+   </td>
+   <td style="text-align:left;">
+    −$19,961
+   </td>
+   <td style="text-align:right;">
+    7,008
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Germany" title="Germany">
+       <img alt="Germany" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Germany
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-21">
+     <a href="#cite_note-21">
+      [20]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $41,139,982.88
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    18
+   </th>
+   <td>
+    <a href="/wiki/Alphabet_Inc." title="Alphabet Inc.">
+     Alphabet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Information_technology" title="Information technology">
+     Information technology
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $282,836
+   </td>
+   <td style="text-align:left;">
+    $59,972
+   </td>
+   <td style="text-align:right;">
+    190,234
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-22">
+     <a href="#cite_note-22">
+      [21]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $1,486,779.44
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    19
+   </th>
+   <td>
+    <a href="/wiki/McKesson_Corporation" title="McKesson Corporation">
+     McKesson
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Healthcare" title="Healthcare">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $276,711
+   </td>
+   <td style="text-align:left;">
+    $3,560
+   </td>
+   <td style="text-align:right;">
+    48,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-23">
+     <a href="#cite_note-23">
+      [22]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $5,764,812.50
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    20
+   </th>
+   <td>
+    <a href="/wiki/Toyota" title="Toyota">
+     Toyota
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Automotive" title="Automotive">
+     Automotive
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Decrease">
+      <img alt="Decrease" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $274,491
+   </td>
+   <td style="text-align:left;">
+    $18,110
+   </td>
+   <td style="text-align:right;">
+    375,235
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Japan" title="Japan">
+       <img alt="Japan" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Japan
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-24">
+     <a href="#cite_note-24">
+      [23]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $731,517.58
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    21
+   </th>
+   <td>
+    <a href="/wiki/TotalEnergies" title="TotalEnergies">
+     TotalEnergies
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $263,310
+   </td>
+   <td style="text-align:left;">
+    $20,526
+   </td>
+   <td style="text-align:right;">
+    101,279
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/France" title="France">
+       <img alt="France" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    France
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-25">
+     <a href="#cite_note-25">
+      [24]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $2,599,847.94
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    22
+   </th>
+   <td>
+    <a href="/wiki/Glencore" title="Glencore">
+     Glencore
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Commodity_market" title="Commodity market">
+     Commodities
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $255,984
+   </td>
+   <td style="text-align:left;">
+    $17,320
+   </td>
+   <td style="text-align:right;">
+    81,284
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Switzerland" title="Switzerland">
+       <img alt="Switzerland" class="mw-file-element" data-file-height="512" data-file-width="512" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/16px-Flag_of_Switzerland_%28Pantone%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/24px-Flag_of_Switzerland_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/32px-Flag_of_Switzerland_%28Pantone%29.svg.png 2x" width="16"/>
+      </a>
+     </span>
+    </span>
+    Switzerland
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-26">
+     <a href="#cite_note-26">
+      [25]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $3,149,254.47
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    23
+   </th>
+   <td>
+    <a href="/wiki/BP" title="BP">
+     BP
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $248,891
+   </td>
+   <td style="text-align:left;">
+    −$2,487
+   </td>
+   <td style="text-align:right;">
+    67,600
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_Kingdom" title="United Kingdom">
+       <img alt="United Kingdom" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United Kingdom
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-27">
+     <a href="#cite_note-27">
+      [26]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $3,681,819.53
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    24
+   </th>
+   <td>
+    <a href="/wiki/Chevron_Corporation" title="Chevron Corporation">
+     Chevron
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Oil_and_gas" title="Oil and gas">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $246,252
+   </td>
+   <td style="text-align:left;">
+    $35,465
+   </td>
+   <td style="text-align:right;">
+    43,846
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-28">
+     <a href="#cite_note-28">
+      [27]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $5,616,293.39
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    25
+   </th>
+   <td>
+    <a href="/wiki/Cencora" title="Cencora">
+     Cencora
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Healthcare" title="Healthcare">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $238,587
+   </td>
+   <td style="text-align:left;">
+    $1,699
+   </td>
+   <td style="text-align:right;">
+    41,500
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-29">
+     <a href="#cite_note-29">
+      [28]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $5,749,084.34
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    26
+   </th>
+   <td>
+    <a href="/wiki/Samsung_Electronics" title="Samsung Electronics">
+     Samsung Electronics
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Electronics" title="Electronics">
+     Electronics
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Decrease">
+      <img alt="Decrease" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $234,129
+   </td>
+   <td style="text-align:left;">
+    $42,398
+   </td>
+   <td style="text-align:right;">
+    270,372
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/South_Korea" title="South Korea">
+       <img alt="South Korea" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    South Korea
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-30">
+     <a href="#cite_note-30">
+      [29]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $865,951.36
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    27
+   </th>
+   <td>
+    <a href="/wiki/Costco" title="Costco">
+     Costco
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Retail" title="Retail">
+     Retail
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $226,954
+   </td>
+   <td style="text-align:left;">
+    $5,844
+   </td>
+   <td style="text-align:right;">
+    304,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-31">
+     <a href="#cite_note-31">
+      [30]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $746,559.21
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    28
+   </th>
+   <td>
+    <a href="/wiki/Foxconn" title="Foxconn">
+     Foxconn
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Electronics" title="Electronics">
+     Electronics
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $222,535
+   </td>
+   <td style="text-align:left;">
+    $4,751
+   </td>
+   <td style="text-align:right;">
+    767,062
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Taiwan" title="Taiwan">
+       <img alt="Taiwan" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Taiwan
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-32">
+     <a href="#cite_note-32">
+      [31]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $290,113.45
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    29
+   </th>
+   <td>
+    <a href="/wiki/Industrial_and_Commercial_Bank_of_China" title="Industrial and Commercial Bank of China">
+     Industrial and Commercial Bank of China
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Financial_services" title="Financial services">
+     Financials
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $214,766
+   </td>
+   <td style="text-align:left;">
+    $53,589
+   </td>
+   <td style="text-align:right;">
+    427,587
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-33">
+     <a href="#cite_note-33">
+      [32]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $502,274.39
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    30
+   </th>
+   <td>
+    <a href="/wiki/Microsoft" title="Microsoft">
+     Microsoft
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Information_technology" title="Information technology">
+     Information technology
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $211,915
+   </td>
+   <td>
+    $73,307
+   </td>
+   <td style="text-align:right;">
+    221,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-34">
+     <a href="#cite_note-34">
+      [33]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $897,149.32
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    31
+   </th>
+   <td>
+    <a href="/wiki/China_Construction_Bank" title="China Construction Bank">
+     China Construction Bank
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Financial_services" title="Financial services">
+     Financials
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $202,753
+   </td>
+   <td style="text-align:left;">
+    $48,145
+   </td>
+   <td style="text-align:right;">
+    376,682
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-35">
+     <a href="#cite_note-35">
+      [34]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $538,260.39
+   </td>
+  </tr>
+  <tr>
+   <th>
+    32
+   </th>
+   <td>
+    <a href="/wiki/Stellantis" title="Stellantis">
+     Stellantis
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Automotive" title="Automotive">
+     Automotive
+    </a>
+   </td>
+   <td>
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $188,888
+   </td>
+   <td>
+    $17,669
+   </td>
+   <td style="text-align:right">
+    272,367
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Netherlands" title="Netherlands">
+       <img alt="Netherlands" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Netherlands
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-36">
+     <a href="#cite_note-36">
+      [35]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $693,505.45
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    33
+   </th>
+   <td>
+    <a href="/wiki/Agricultural_Bank_of_China" title="Agricultural Bank of China">
+     Agricultural Bank of China
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Financial_services" title="Financial services">
+     Financials
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $187,061
+   </td>
+   <td style="text-align:left;">
+    $38,524
+   </td>
+   <td style="text-align:right;">
+    452,258
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-37">
+     <a href="#cite_note-37">
+      [36]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $413,615.68
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    34
+   </th>
+   <td>
+    <a href="/wiki/Ping_An_Insurance" title="Ping An Insurance">
+     Ping An Insurance
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Financial_services" title="Financial services">
+     Financials
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Decrease">
+      <img alt="Decrease" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $181,566
+   </td>
+   <td style="text-align:left;">
+    $12,454
+   </td>
+   <td style="text-align:right;">
+    344,223
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-38">
+     <a href="#cite_note-38">
+      [37]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $527,466.21
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    35
+   </th>
+   <td>
+    <a href="/wiki/Cardinal_Health" title="Cardinal Health">
+     Cardinal Health
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Health_care" title="Health care">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $181,364
+   </td>
+   <td style="text-align:left;">
+    −$933
+   </td>
+   <td style="text-align:right;">
+    46,035
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-39">
+     <a href="#cite_note-39">
+      [38]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $3,939,698.06
+   </td>
+  </tr>
+  <tr>
+   <th>
+    36
+   </th>
+   <td>
+    <a href="/wiki/Cigna" title="Cigna">
+     Cigna
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Healthcare" title="Healthcare">
+     Healthcare
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $180,516
+   </td>
+   <td>
+    $6,668
+   </td>
+   <td style="text-align:right;">
+    70,231
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-40">
+     <a href="#cite_note-40">
+      [39]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $2,570,317.95
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    37
+   </th>
+   <td>
+    <a href="/wiki/Marathon_Petroleum" title="Marathon Petroleum">
+     Marathon Petroleum
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $180,012
+   </td>
+   <td style="text-align:left;">
+    $14,516
+   </td>
+   <td style="text-align:right;">
+    17,800
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-41">
+     <a href="#cite_note-41">
+      [40]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $10,113,033.71
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    38
+   </th>
+   <td>
+    <a href="/wiki/Phillips_66" title="Phillips 66">
+     Phillips 66
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $175,702
+   </td>
+   <td style="text-align:left;">
+    $11,024
+   </td>
+   <td style="text-align:right;">
+    13,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-42">
+     <a href="#cite_note-42">
+      [41]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $13,515,538.46
+   </td>
+  </tr>
+  <tr>
+   <th>
+    39
+   </th>
+   <td>
+    <a href="/wiki/Sinochem" title="Sinochem">
+     Sinochem
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Chemical_industry" title="Chemical industry">
+     Chemicals
+    </a>
+   </td>
+   <td>
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $173,834
+   </td>
+   <td>
+    –$1
+   </td>
+   <td style="text-align:right">
+    220,760
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-43">
+     <a href="#cite_note-43">
+      [42]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $787,434.32
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    40
+   </th>
+   <td>
+    <a href="/wiki/China_Railway_Engineering_Corporation" title="China Railway Engineering Corporation">
+     China Railway Engineering Corporation
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Construction" title="Construction">
+     Construction
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $171,669
+   </td>
+   <td>
+    $2,035
+   </td>
+   <td style="text-align:right;">
+    314,792
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-44">
+     <a href="#cite_note-44">
+      [43]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $545,341.05
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    41
+   </th>
+   <td>
+    <a href="/wiki/Valero_Energy" title="Valero Energy">
+     Valero Energy
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $171,189
+   </td>
+   <td style="text-align:left;">
+    $11,528
+   </td>
+   <td style="text-align:right;">
+    9,743
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-:2_45-0">
+     <a href="#cite_note-:2-45">
+      [44]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $17,570,460.84
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    42
+   </th>
+   <td>
+    <a href="/wiki/Gazprom" title="Gazprom">
+     Gazprom
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $167,832
+   </td>
+   <td style="text-align:left;">
+    $17,641
+   </td>
+   <td style="text-align:right;">
+    468,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <span>
+       <img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/>
+      </span>
+     </span>
+    </span>
+    <a href="/wiki/Russia" title="Russia">
+     Russia
+    </a>
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-46">
+     <a href="#cite_note-46">
+      [45]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $358,615.38
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    43
+   </th>
+   <td>
+    <a href="/wiki/Cargill" title="Cargill">
+     Cargill
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Conglomerate_(company)" title="Conglomerate (company)">
+     Conglomerate
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $165,000
+   </td>
+   <td style="text-align:left;">
+    ...
+   </td>
+   <td style="text-align:right;">
+    155,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-47">
+     <a href="#cite_note-47">
+      [46]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $1,064,516.13
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    44
+   </th>
+   <td>
+    <a href="/wiki/China_National_Offshore_Oil_Corporation" title="China National Offshore Oil Corporation">
+     China National Offshore Oil Corporation
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+     Oil and gas
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $164,762
+   </td>
+   <td style="text-align:left;">
+    $16,988
+   </td>
+   <td style="text-align:right;">
+    81,775
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-48">
+     <a href="#cite_note-48">
+      [47]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $2,014,821.16
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    45
+   </th>
+   <td>
+    <a href="/wiki/China_Railway_Construction_Corporation" title="China Railway Construction Corporation">
+     China Railway Construction Corporation
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Construction" title="Construction">
+     Construction
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $163,037
+   </td>
+   <td>
+    $1,800
+   </td>
+   <td style="text-align:right;">
+    342,098
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-49">
+     <a href="#cite_note-49">
+      [48]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $476,579.81
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    46
+   </th>
+   <td>
+    <a href="/wiki/Baowu" title="Baowu">
+     Baowu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Steel" title="Steel">
+     Steel
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $161,698
+   </td>
+   <td>
+    $2,493
+   </td>
+   <td style="text-align:right;">
+    245,675
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/China" title="China">
+       <img alt="China" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    China
+   </td>
+   <td class="table-yes2" data-sort-value="Yes" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="Yes">
+      <img alt="Yes" class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/13px-Black_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/20px-Black_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/26px-Black_check.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-50">
+     <a href="#cite_note-50">
+      [49]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $658,178.49
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    47
+   </th>
+   <td>
+    <a href="/wiki/Schwarz_Gruppe" title="Schwarz Gruppe">
+     Schwarz Gruppe
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Retail" title="Retail">
+     Retail
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $159,800
+   </td>
+   <td style="text-align:left;">
+    ...
+   </td>
+   <td style="text-align:right;">
+    575,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Germany" title="Germany">
+       <img alt="Germany" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Germany
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-51">
+     <a href="#cite_note-51">
+      [50]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $277,913.04
+   </td>
+  </tr>
+  <tr>
+   <th>
+    48
+   </th>
+   <td>
+    <a class="mw-redirect" href="/wiki/Mitsubishi_Group" title="Mitsubishi Group">
+     Mitsubishi Group
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Conglomerate_(company)" title="Conglomerate (company)">
+     Conglomerate
+    </a>
+   </td>
+   <td>
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $159,371
+   </td>
+   <td>
+    $8,723
+   </td>
+   <td style="text-align:right">
+    79,706
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Japan" title="Japan">
+       <img alt="Japan" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Japan
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-52">
+     <a href="#cite_note-52">
+      [51]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $1,999,485.61
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    49
+   </th>
+   <td>
+    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+     Ford Motor Company
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Automotive" title="Automotive">
+     Automotive
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Increase">
+      <img alt="Increase" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $158,057
+   </td>
+   <td style="text-align:left;">
+    −$1,981
+   </td>
+   <td style="text-align:right;">
+    173,000
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/United_States" title="United States">
+       <img alt="United States" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    United States
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-53">
+     <a href="#cite_note-53">
+      [52]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $913,624.28
+   </td>
+  </tr>
+  <tr>
+   <th scope="row">
+    50
+   </th>
+   <td>
+    <a href="/wiki/Mercedes-Benz_Group" title="Mercedes-Benz Group">
+     Mercedes-Benz Group
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Automotive_industry" title="Automotive industry">
+     Automotive
+    </a>
+   </td>
+   <td style="text-align:center;">
+    <span typeof="mw:File">
+     <span title="Decrease">
+      <img alt="Decrease" class="mw-file-element" data-file-height="300" data-file-width="300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" width="11"/>
+     </span>
+    </span>
+    $157,403
+   </td>
+   <td style="text-align:left;">
+    $15,252
+   </td>
+   <td style="text-align:right;">
+    168,797
+   </td>
+   <td>
+    <span class="flagicon">
+     <span class="mw-image-border" typeof="mw:File">
+      <a href="/wiki/Germany" title="Germany">
+       <img alt="Germany" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+      </a>
+     </span>
+    </span>
+    Germany
+   </td>
+   <td class="table-no2" data-sort-value="No" style="vertical-align: middle; text-align: center;">
+    <span class="skin-invert" typeof="mw:File">
+     <span title="No">
+      <img alt="No" class="mw-file-element" data-file-height="600" data-file-width="525" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/13px-Black_x.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/20px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/26px-Black_x.svg.png 2x" width="13"/>
+     </span>
+    </span>
+   </td>
+   <td>
+    <sup class="reference" id="cite_ref-54">
+     <a href="#cite_note-54">
+      [53]
+     </a>
+    </sup>
+   </td>
+   <td>
+    $932,498.80
+   </td>
+  </tr>
+ </tbody>
+</table>
